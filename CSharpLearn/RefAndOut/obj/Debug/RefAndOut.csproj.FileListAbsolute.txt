@@ -4,3 +4,6 @@ C:\Users\dell\Documents\GitHub\C-Learn\CSharpLearn\CSharpLearn\RefAndOut\bin\Deb
 C:\Users\dell\Documents\GitHub\C-Learn\CSharpLearn\CSharpLearn\RefAndOut\obj\Debug\RefAndOut.csprojResolveAssemblyReference.cache
 C:\Users\dell\Documents\GitHub\C-Learn\CSharpLearn\CSharpLearn\RefAndOut\obj\Debug\RefAndOut.exe
 C:\Users\dell\Documents\GitHub\C-Learn\CSharpLearn\CSharpLearn\RefAndOut\obj\Debug\RefAndOut.pdb
+C:\Users\dell\Documents\GitHub\CSharpRefAndOut\CSharpRefAndOut\CSharpLearn\RefAndOut\bin\Debug\RefAndOut.exe.config
+C:\Users\dell\Documents\GitHub\CSharpRefAndOut\CSharpRefAndOut\CSharpLearn\RefAndOut\obj\Debug\RefAndOut.exe
+C:\Users\dell\Documents\GitHub\CSharpRefAndOut\CSharpRefAndOut\CSharpLearn\RefAndOut\obj\Debug\RefAndOut.pdb
